@@ -23,3 +23,7 @@ cambio 1 exercise 1
 cambio 2 exercise 1
 
 cambio 3 exercise 1
+
+cambio 1 exercise 2
+
+cambio 2 exercise 2
